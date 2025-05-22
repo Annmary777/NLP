@@ -56,9 +56,7 @@ This project demonstrates preprocessing and feature extraction techniques applie
 - Perform hyperparameter tuning and cross-validation.
 - Explore advanced embeddings like Word2Vec, GloVe, or BERT for improved sentiment classification.
 
-## Contact
 
-For questions or suggestions, please open an issue or contact [Your Name] at [your-email@example.com].
 
 ---
 
